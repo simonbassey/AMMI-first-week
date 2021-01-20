@@ -1,0 +1,8 @@
+About Me
+
+I am simon bassey from Nigeria
+I have a Bachelors degree in computer science and with a strong background in Software Engineering
+
+I have a deep for passion for building intelligent systems and want to develop core expertise in ML for solving problems intelligently.
+My Interest ranges from from understanding Core ML algorithms (Classification, Clustering, Regression, Neural Networks) to NLP, Data Science, Deep learning and their application in finance and other areas.
+
